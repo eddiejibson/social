@@ -1,0 +1,19 @@
+{
+    "name": "eddiejibson/oxro",
+    "description": "A better social network",
+    "type": "project",
+    "require": {
+        "predis/predis": "^1.1",
+        "vlucas/phpdotenv": "^3.3",
+        "sentry/sentry": "2.0.0-beta2",
+        "php-http/curl-client": "^1.7",
+        "guzzlehttp/psr7": "^1.5"
+    },
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Edward Jibson",
+            "email": "jibson@tuta.io"
+        }
+    ]
+}
